@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: aqua;
+}
+.header{
+    background-color: black ;
+    color: white;
+}
+.header p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.IDK button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    background-color:white ;
+    color: darkblue;
+    font-size: 18px;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    text-shadow: 5px 5px 5px blue;
+}
